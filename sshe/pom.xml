@@ -191,7 +191,7 @@
 		<dependency>
 			<groupId>net.bull.javamelody</groupId>
 			<artifactId>javamelody-core</artifactId>
-			<version>1.47.0</version>
+			<version>1.74.0</version>
 		</dependency>
 		
 		<!-- 加入batik依赖包，用于highcharts导出图表 -->
